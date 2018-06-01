@@ -1,0 +1,19 @@
+{
+  "name": "npm-promisify",
+  "version": "1.0.0",
+  "description": "lets you use the npm package with es6 promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautron7/npm-promisify.git"
+  },
+  "author": "beautron7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beautron7/npm-promisify/issues"
+  },
+  "homepage": "https://github.com/beautron7/npm-promisify#readme"
+}
